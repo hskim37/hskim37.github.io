@@ -1,0 +1,39 @@
+<style>
+    ul.bullets li {
+        list-style-type: disc;
+    }
+</style>
+
+<h2><span data-i18n="skills.my_skills">Projects</span></h2>
+<ul class="fa-ul">
+{% for project in site.data.index.projects %}
+    <!-- <div class="row"> -->
+            <!-- <div class="col"> -->
+                <li><h3 style="margin: 0; line-height: normal;"><i class="fa-li fa fa-bookmark" aria-hidden="true"></i> {{ project.name }} </h3>
+
+                {% if project.poster %}
+                    <a href="{{ project.poster }}" target="_blank"><i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i>Poster </a>
+                {% endif %}
+
+                {% if project.abstract %}
+                    <a href="{{ project.abstract }}" target="_blank"><i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i>Abstract </a>
+                {% endif %}
+
+                {% if project.github %}
+                    <a href="{{ project.github }}" target="_blank"><i class="fa fa-fw fa-github" aria-hidden="true"></i>GitHub </a>
+                {% endif %}
+
+                {% if project.link %}
+                    <a href="{{ project.link }}" target="_blank"><i class="fa fa-fw fa-link" aria-hidden="true"></i>Link </a>
+                {% endif %}
+
+                {% if project.code %}
+                    {% if project.poster or project.abstract or project.github or project.link %} <br> {% endif %}
+                    <i class="fa fa-fw fa-code" aria-hidden="true"></i> {{ project.code }}
+                {% endif %}
+
+                <p style="margin: 0;">{{ project.descr }}</p></li><br>
+            <!-- </div> -->
+    <!-- </div> -->
+{% endfor %}
+</ul>

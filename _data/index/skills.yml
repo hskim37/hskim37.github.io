@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: SQL, Python, R, Conscientiousness, HTML/CSS, Java
+percentage: 30, 40, 20, 50, 30, 40

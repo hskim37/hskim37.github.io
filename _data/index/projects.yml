@@ -1,0 +1,60 @@
+- name: Oasis
+  code: HTML, CSS, JavaScript-jQuery, JavaScript-Ajax
+  link: http://oasisportal.info/demos/4/
+  descr: <ul class="bullets">
+          <li>Working as a front-end developer for the dashboard Chrome extension that displays summarized information about COVID-19.</li>
+         </ul>
+
+- name: The Wellesley Computer Science Career DataBase
+  code: HTML, CSS, Python-Flask, MySQL
+  descr: <ul class="bullets">
+          <li>Devised and implemented the Central Authentication Service, data definition language statements, login, logout, registration, posts, and profile.</li>
+         </ul>
+  github: https://github.com/hskim37/WCSCDB
+
+- name: Investigation of Russian Accounts on Twitter Using TwitterTrails Data
+  code: Java
+  descr: <ul class="bullets">
+          <li>Analyzed the relationship between 896 Twitter accounts to investigate Russia’s attempt to interfere with the 2016 United States presidential election.</li>
+          <li>Used our own implementations of adjacency list graphs, bread-first search, and depth-first search to analyze data with graphs and various other data structures.</li>
+          <li>Found the most active account, the most popular story among these accounts, and the diameter and depth of the largest connected component in the graph.</li>
+         </ul>
+  github: https://github.com/hskim37/RAT
+
+- name: Predicting the Outcome of Dogs at the Austin Animal Center
+  code: R
+  descr: <ul class="bullets">
+          <li>Applied regression trees and validation methods to find the best model for predicting the outcome of dogs.</li>
+          <li>Managed and wrote most of the code involved.</li>
+          <li>Successfully predicted 67% of the outcomes using the full model.</li>
+          <li>Created and presented a poster at the Applied Data Analysis and Statistical Inference Poster Session.</li>
+          <li>Won 1st Place in the 2019 Undergraduate Class Project Competition.</li>
+         </ul>
+  poster: https://drive.google.com/open?id=1cSiuS5XGpbXAUOlte7GPzhNKi2DUgzAt
+
+- name: Improvement of Computational Predictions of the Impacts of Genetic Variants in the ACMG 59 Genes
+  code: Python
+  descr: <ul class="bullets">
+          <li>Developed and implemented new Python programs to automate and facilitate data analysis.</li>
+          <li>Organized and obtained data for all 59 genes through shell scripts using the command line.</li>
+          <li>Submitted the abstract to the American Society of Human Genetics 2020 Annual Meeting.</li>
+         </ul>
+  github: https://github.com/hskim37/ACMG59
+  abstract: https://drive.google.com/file/d/1dZf68W1eDghR9FoknKRqjvHMu6ZKPCb4/view?usp=sharing
+
+- name: The Search for Potential Gamma-ray Bursts Using Images from the Slewing Mirror Telescope in the Ultra-Fast Flash Observatory Pathfinder
+  descr: <ul class="bullets">
+          <li>Discovered 68 unclassified optical sources that are not in any of the existing catalogues through Astrometry.net and SAOImage DS9.</li>
+          <li>Created and presented poster at the 2017 Korean Physical Society Fall Meeting.</li>
+         </ul>
+  poster: https://drive.google.com/open?id=1uyNAZapTOkD1p5RLtYyqaX2WPAzPvZqZ
+
+- name: The Economic Independence of Younger Generations and Influential Factors
+  descr: <ul class="bullets">
+          <li>Analyzed data from 117,018 young adults based on independent survey results and public big data.</li>
+          <li>Led my team through research, paper publication, and presentation.</li>
+          <li>Discovered two statistically significant characteristics using SPSS.</li>
+          <li>Published the thesis in the Institute of Research Engineers and Doctors Journal.</li>
+          <li>Gave a presentation at the Sixth International Conference on Advances in Economics, Social Science and Human Behavior Study.</li>
+         </ul>
+  link: https://www.seekdl.org/conferences/paper/details/8733.html
