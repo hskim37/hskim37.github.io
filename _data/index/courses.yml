@@ -2,11 +2,11 @@
 - name: Theory of Programming Languages
 - name: Algorithms
 - name: Data Structures
-- name: Applied Data Analysis and Statistical Inference
-- name: Combinatorics and Graph Theory
-- name: Multivariable Calculus
 - name: Data and Text Mining for the Web
 - name: Visual Processing by Computer and Biological Vision Systems
 - name: Tangible User Interfaces
+- name: Applied Data Analysis and Statistical Inference
+- name: Combinatorics and Graph Theory
+- name: Multivariable Calculus
 - name: Linear Algebra
 #   ongoing: true
