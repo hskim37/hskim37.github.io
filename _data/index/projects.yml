@@ -1,3 +1,12 @@
+- name: Investigation of Topics of Articles from Publishers With Different Political Orientations Through Topic Modeling
+  code: Python (scikit-learn, Selenium, Matplotlib, Beautiful Soup)
+  github: https://github.com/hskim37/Dr-Strike
+  descr: <ul class="bullets">
+          <li>Investigated trends in news articles about medical doctors' strike in 2020 by publishers with different political orientations.</li>
+          <li>Analyzed 1,951 articles from 10 major news publishers in Korea.</li>
+          <li>Performed topic modeling with LDA models based on TF and TF-IDF vectorizers on article content and titles.</li>
+         </ul>
+
 - name: Oasis
   code: HTML, CSS, JavaScript-jQuery, JavaScript-Ajax
   link: http://oasisportal.info/demos/4/
