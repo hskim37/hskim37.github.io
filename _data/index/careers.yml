@@ -16,17 +16,29 @@
 # - name: Investigation of Russian Accounts on Twitter Using TwitterTrails Data
 #   date: November 2019 - December 2019
 
-- name: Improvement of Computational Predictions of the Impacts of Genetic Variants in the ACMG 59 Genes
+# - name: Improvement of Computational Predictions of the Impacts of Genetic Variants in the ACMG 59 Genes
+#   place: Harvard Medical School / MIT CSAIL / Brigham and Women's Hospital
+#   link: https://www.brighamandwomens.org/research/departments/genetics/overview
+#   date: June 2019 - August 2019
+#   job: Research Trainee and Second Author
+  
+- name: Research Trainee
   place: Harvard Medical School / MIT CSAIL / Brigham and Women's Hospital
   link: https://www.brighamandwomens.org/research/departments/genetics/overview
   date: June 2019 - August 2019
-  job: Research Trainee and Second Author
+  job: Second Author
 
-- name: The Search for Potential GRB Using Images from the SMT in the UFFO Pathfinder
+# - name: The Search for Potential GRB Using Images from the SMT in the UFFO Pathfinder
+#   place: Sungkyunkwan University Institute for Science and Technology in Space
+#   link: http://astro.skku.edu/
+#   date: August 2017 - October 2017
+#   job: Research Intern and First Author
+  
+- name: Research Intern
   place: Sungkyunkwan University Institute for Science and Technology in Space
   link: http://astro.skku.edu/
   date: August 2017 - October 2017
-  job: Research Intern and First Author
+  job: First Author
 
 # - name: The Economic Independence of Younger Generations and Influential Factors
 #   date: May 2016 - February 2017
