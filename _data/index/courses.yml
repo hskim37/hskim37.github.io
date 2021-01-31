@@ -6,10 +6,7 @@
 - name: Combinatorics and Graph Theory
 - name: Multivariable Calculus
 - name: Data and Text Mining for the Web
-  ongoing: true
 - name: Visual Processing by Computer and Biological Vision Systems
-  ongoing: true
 - name: Tangible User Interfaces
-  ongoing: true
 - name: Linear Algebra
-  ongoing: true
+#   ongoing: true
