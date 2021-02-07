@@ -3,7 +3,7 @@
   github: https://github.com/hskim37/Dr-Strike
   descr: <ul class="bullets">
           <li>Investigated trends in news articles about medical doctors' strike in 2020 by publishers with different political orientations.</li>
-          <li>Analyzed 1,951 articles from 10 major news publishers in Korea.</li>
+          <li>Collected and analyzed 1,951 articles from 10 major news publishers in Korea.</li>
           <li>Performed topic modeling with LDA models based on TF and TF-IDF vectorizers on article content and titles.</li>
          </ul>
 
