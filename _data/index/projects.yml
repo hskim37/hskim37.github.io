@@ -1,4 +1,5 @@
 - name: Lung CT Analysis System
+  period: Jan 2021 - May 2021
   code: Angular - HTML, CSS, JavaScript
   link: http://monitorcorp.ai/index.php/lucas/
   descr: <ul class="bullets">
@@ -9,6 +10,7 @@
          </ul>
 
 - name: Gaze-Based Fatigue Tracker
+  period: Nov 2020 - Dec 2020
   code: HTML, CSS, JavaScript
   github: https://github.com/hskim37/fatigue-tracker
   documentation: https://docs.google.com/document/d/e/2PACX-1vQLjq6mgWhzseL07HwzuekhfRlidJKYdffeM2nZCsacMYurJn3qaFKwgTFooHTyVEtrMPpD8zu343tf/pub
@@ -19,6 +21,7 @@
          </ul>
 
 - name: Investigation of Topics of Articles from Publishers With Different Political Orientations Through Topic Modeling
+  period: Sep 2020 - Oct 2020
   code: Python (scikit-learn, Selenium, Matplotlib, Beautiful Soup)
   github: https://github.com/hskim37/Dr-Strike
   descr: <ul class="bullets">
@@ -28,6 +31,7 @@
          </ul>
 
 - name: Oasis
+  period: Aug 2020 - Oct 2020
   code: HTML, CSS, JavaScript-jQuery
   link: http://oasisportal.info/demos/4/
   descr: <ul class="bullets">
@@ -35,6 +39,7 @@
          </ul>
 
 - name: The Wellesley Computer Science Career DataBase
+  period: Mar 2020 - May 2020
   code: HTML, CSS, Python-Flask, MySQL
   descr: <ul class="bullets">
           <li>Devised and implemented the Central Authentication Service, data definition language statements, login, logout, registration, posts, and profile.</li>
@@ -42,6 +47,7 @@
   github: https://github.com/hskim37/WCSCDB
 
 - name: Investigation of Russian Accounts on Twitter Using TwitterTrails Data
+  period: Nov 2019 - Dec 2019
   code: Java
   descr: <ul class="bullets">
           <li>Analyzed the relationship between 896 Twitter accounts to investigate Russia’s attempt to interfere with the 2016 United States presidential election.</li>
@@ -51,6 +57,7 @@
   github: https://github.com/hskim37/RAT
 
 - name: Predicting the Outcome of Dogs at the Austin Animal Center
+  period: Nov 2019 - Dec 2019
   code: R
   descr: <ul class="bullets">
           <li>Applied regression trees and validation methods to find the best model for predicting the outcome of dogs.</li>
@@ -62,6 +69,7 @@
   poster: https://drive.google.com/open?id=1cSiuS5XGpbXAUOlte7GPzhNKi2DUgzAt
 
 - name: Improvement of Computational Predictions of the Impacts of Genetic Variants in the ACMG 59 Genes
+  period: Jun 2019 - Aug 2019
   code: Python
   descr: <ul class="bullets">
           <li>Developed and implemented new Python programs to automate and facilitate data analysis.</li>
@@ -72,6 +80,7 @@
   abstract: https://drive.google.com/file/d/1dZf68W1eDghR9FoknKRqjvHMu6ZKPCb4/view?usp=sharing
 
 - name: The Search for Potential Gamma-ray Bursts Using Images from the Slewing Mirror Telescope in the Ultra-Fast Flash Observatory Pathfinder
+  period: Aug 2017 - Oct 2017
   descr: <ul class="bullets">
           <li>Discovered 68 unclassified optical sources that are not in any of the existing catalogues through Astrometry.net and SAOImage DS9.</li>
           <li>Created and presented poster as first author at the 2017 Korean Physical Society Fall Meeting.</li>
@@ -79,6 +88,7 @@
   poster: https://drive.google.com/open?id=1uyNAZapTOkD1p5RLtYyqaX2WPAzPvZqZ
 
 - name: The Economic Independence of Younger Generations and Influential Factors
+  period: May 2016 - Feb 2017
   descr: <ul class="bullets">
           <li>Analyzed data from 117,018 young adults based on independent survey results and public big data.</li>
           <li>Led my team through research, paper publication, and presentation.</li>
