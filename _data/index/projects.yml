@@ -1,5 +1,5 @@
 - name: Lung CT Analysis System
-  code: HTML, CSS, JavaScript
+  code: Angular - HTML, CSS, JavaScript
   link: http://monitorcorp.ai/index.php/lucas/
   descr: <ul class="bullets">
           <li>Upgraded the user interface for a CT viewer product based on AI using JavaScript within Angular.</li>
