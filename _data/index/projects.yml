@@ -1,3 +1,13 @@
+- name: Lung CT Analysis System (LuCAS)
+  code: HTML, CSS, JavaScript
+  link: http://monitorcorp.ai/index.php/lucas/
+  descr: <ul class="bullets">
+          <li>Upgraded the user interface for a CT viewer product based on AI using JavaScript within Angular.</li>
+          <li>Implemented new annotation tools for CT scan images using the CornerstoneTools.js library.</li>
+          <li>Devised the logic for and implemented advanced features that use existing data to obtain new geometric characteristics.</li>
+          <li>Developed a REST API using Express.js and MySQL.</li>
+         </ul>
+
 - name: Gaze-Based Fatigue Tracker
   code: HTML, CSS, JavaScript
   github: https://github.com/hskim37/fatigue-tracker
