@@ -1,7 +1,7 @@
 - name: Gaze-Based Fatigue Tracker
   code: HTML, CSS, JavaScript
   github: https://github.com/hskim37/fatigue-tracker
-  link: https://docs.google.com/document/d/e/2PACX-1vQLjq6mgWhzseL07HwzuekhfRlidJKYdffeM2nZCsacMYurJn3qaFKwgTFooHTyVEtrMPpD8zu343tf/pub
+  documentation: https://docs.google.com/document/d/e/2PACX-1vQLjq6mgWhzseL07HwzuekhfRlidJKYdffeM2nZCsacMYurJn3qaFKwgTFooHTyVEtrMPpD8zu343tf/pub
   descr: <ul class="bullets">
           <li>Designed a tangible user interface that tracks eye gaze movement to increase users’ self-awareness of fatigue levels while working remotely.</li>
           <li>Created the digital interface using Javascript with an eye tracking library.</li>
